@@ -1,4 +1,3 @@
-package HomeWork1;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -7,6 +6,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
+ *  test.
  * This class is an interpreter for the Z+- programming language. It reads a Z+-
  * program from a file with a .zpm extension and executes it.
  */
